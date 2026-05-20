@@ -18,6 +18,5 @@ Supabase, Cloudinary and Python Flask.
 - Follow / unfollow users
 - AI video recommendations
 - Auto video captions
- 
- git push testing
+
  
